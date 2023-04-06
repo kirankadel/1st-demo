@@ -1,4 +1,7 @@
 stdio.h<>
 int main()
   void
-printf(hiihi);
+printf(hiihi)
+
+
+sivadutt you are g**du;
