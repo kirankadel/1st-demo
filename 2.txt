@@ -1,0 +1,4 @@
+stdio.h<>
+int main()
+  void
+printf(hiihi);
